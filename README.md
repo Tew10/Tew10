@@ -6,14 +6,8 @@
 </div>
 
 <h2>Sobre mim</h2> 
-Meu nome é Matheus Antonio tenho 22 anos e sou estudante de programação com um interesse crescente em ciência de dados. Atualmente, estou mergulhando no universo do data science, explorando tudo o que há de mais recente em análise de dados, machine learning e estatísticas.
-
-Uma das coisas que mais aprecio em minha jornada é a oportunidade de trabalhar em equipe. Acredito que colaborar com colegas não só enriquece meu aprendizado, mas também me proporciona novas perspectivas e técnicas que talvez eu não descobrisse por conta própria. Cada membro da equipe traz consigo um conjunto único de habilidades e conhecimentos, e é essa troca constante que faz o trabalho em grupo ser tão enriquecedor.
-
-Sou um aprendiz rápido e estou sempre em busca de novos desafios para aprimorar minhas habilidades. A curiosidade e a paixão por aprender são o que me impulsionam a ir além e a explorar novas áreas do conhecimento. Estou entusiasmado para continuar evoluindo e contribuindo para projetos que desafiem minha criatividade e habilidades técnicas.
-
-Estou ansioso para as oportunidades futuras e para colaborar com pessoas inspiradoras ao longo dessa jornada.
-
+Meu nome é Matheus Antonio tenho 23 anos e sou estudante de desenvolvimento de software em constante aprendizado, apaixonado por explorar novas tecnologias e aprimorar minhas habilidades, busco oportunidades para expandir meus conhecimentos na área de desenvolvimento de software.
+Sou particularmente interessado em machine learning e inteligência artificial, áreas que me fascinam e nas quais desejo me aprofundar. Acredito que a combinação dessas tecnologias com o desenvolvimento de software tem o potencial de criar soluções inovadoras e impactantes, sou uma pessoa proativa, comunicativa e que valoriza o trabalho em equipe. Gosto de compartilhar conhecimento e colaborar com outros profissionais para alcançar objetivos em comum.
 <h2>Conecte-se comigo</h2> 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/matheus-antonio-1a6477241//)   [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tew.santos/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:matheus.antonio22123@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/Tew10)
