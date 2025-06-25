@@ -10,7 +10,7 @@ Meu nome é Matheus Antonio tenho 23 anos e sou estudante de desenvolvimento de 
 Sou particularmente interessado em machine learning e inteligência artificial, áreas que me fascinam e nas quais desejo me aprofundar. Acredito que a combinação dessas tecnologias com o desenvolvimento de software tem o potencial de criar soluções inovadoras e impactantes, sou uma pessoa proativa, comunicativa e que valoriza o trabalho em equipe. Gosto de compartilhar conhecimento e colaborar com outros profissionais para alcançar objetivos em comum.
 <h2>Conecte-se comigo</h2> 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/matheus-antonio-1a6477241//)   [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tew.santos/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:matheus.antonio22123@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/Tew10)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)   [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tew.santos/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:matheus.antonio22123@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/Tew10)
 
 <h2>Habilidades</h2> 
 
