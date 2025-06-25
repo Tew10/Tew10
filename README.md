@@ -19,7 +19,7 @@ Sou particularmente interessado em machine learning e inteligência artificial, 
 
 <h2>Cursando</h2>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=red)](https://www.java.com)![Static Badge](https://img.shields.io/badge/any_text-you_like-blue?logo=openjdk&logoColor=lightgreen)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <h2>GitHub Stats</h2>
 
