@@ -6,7 +6,11 @@
 </div>
 
 <h2>Sobre mim</h2> 
-Meu nome é Matheus tenho 23 anos e sou um profissional em transição de carreira para a área de Tecnologia da Informação, com sólida experiência em funções administrativas e atendimento. Atualmente em formação técnica em Desenvolvimento de Sistemas (SENAI) e cursando capacitações em Java, Node.js e PL/SQL. Possuo forte base em SQL e PL/SQL com SQL server, além de conhecimentos em programação e desenvolvimento web. Busco oportunidade para aplicar minhas habilidades técnicas, contribuir com soluções e consolidar minha carreira em TI.
+Meu nome é Matheus, tenho 23 anos e estou em transição para a área de Tecnologia da Informação, trazendo uma base sólida adquirida em funções administrativas e atendimento ao público. Atualmente curso Desenvolvimento de Sistemas (SENAI) e me capacito continuamente em tecnologias como Java, Node.js, SQL e PL/SQL, com foco no desenvolvimento Back-end e também na Análise de Dados, áreas pelas quais tenho grande interesse.
+
+Possuo conhecimentos em Java com orientação a objetos, além de uma base consistente em SQL e PL/SQL utilizando SQL Server. Tenho experiência prática em lógica de programação, desenvolvimento web e boas práticas de código, sempre buscando evoluir por meio de projetos, estudos estruturados e resolução de problemas reais.
+
+Sou movido por desafios e estou em busca da minha primeira oportunidade na área de TI para aplicar minhas habilidades técnicas, consolidar minha experiência prática, aprender com profissionais experientes e contribuir para soluções eficientes e de impacto.
 
 <h2>Conecte-se comigo</h2> 
 
