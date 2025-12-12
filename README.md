@@ -6,23 +6,22 @@
 </div>
 
 <h2>Sobre mim</h2> 
-Meu nome é Matheus Antonio tenho 23 anos e sou estudante de Desenvolvimento de Sistemas Web, apaixonado por tecnologia e sempre em busca de novos aprendizados. Tenho facilidade em aprender rapidamente, gosto de colaborar em equipe e me comunico bem, o que me ajuda a contribuir ativamente em projetos. Atualmente, também me interesso pela área de dados e estou explorando maneiras de aplicar esse conhecimento junto ao desenvolvimento web. Acredito no aprendizado contínuo e estou sempre aberto a novos desafios e oportunidades.
+Meu nome é Matheus tenho 23 anos e sou um profissional em transição de carreira para a área de Tecnologia da Informação, com sólida experiência em funções administrativas e atendimento. Atualmente em formação técnica em Desenvolvimento de Sistemas (SENAI) e cursando capacitações em Java, Node.js e PL/SQL. Possuo forte base em SQL e PL/SQL com SQL server, além de conhecimentos em programação e desenvolvimento web. Busco oportunidade para aplicar minhas habilidades técnicas, contribuir com soluções e consolidar minha carreira em TI.
+
 <h2>Conecte-se comigo</h2> 
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)   [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tew.santos/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:matheus.antonio22123@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/Tew10)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-antonio-1a6477241/) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tew.santos/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:matheus.antonio22123@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/Tew10)
 
 <h2>Habilidades</h2> 
 
 ![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=red) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/Tew10
-) ![Microsoft_Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+) ![Microsoft_Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white).![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white). ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white).![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <h2>Cursando</h2>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) !
 
-<h2>GitHub Stats</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 
