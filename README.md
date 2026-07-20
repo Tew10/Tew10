@@ -6,11 +6,14 @@
 </div>
 
 <h2>Sobre mim</h2> 
-Meu nome é Matheus, tenho 23 anos e estou em transição para a área de Tecnologia da Informação, trazendo uma base sólida adquirida em funções administrativas e atendimento ao público. Atualmente curso Desenvolvimento de Sistemas (SENAI) e me capacito continuamente em tecnologias como Java, Node.js, SQL e PL/SQL, com foco no desenvolvimento Back-end e também na Análise de Dados, áreas pelas quais tenho grande interesse.
+Meu nome é Matheus, tenho 24 anos e sou Técnico em Desenvolvimento de Sistemas pelo SENAI. Busco minha primeira oportunidade como Desenvolvedor Júnior, com foco em desenvolvimento back-end utilizando Java e Spring Boot.
 
-Possuo conhecimentos em Java com orientação a objetos, além de uma base consistente em SQL e PL/SQL utilizando SQL Server. Tenho experiência prática em lógica de programação, desenvolvimento web e boas práticas de código, sempre buscando evoluir por meio de projetos, estudos estruturados e resolução de problemas reais.
+Durante minha formação, desenvolvi conhecimentos em Java, HTML, CSS, JavaScript, SQL Server, APIs REST, JSON, Git e GitHub. Como projeto de destaque, participei do desenvolvimento do **Doe+**, uma plataforma web para conectar ONGs e doadores, atuando no desenvolvimento da aplicação, integração com banco de dados, modelagem de dados (DER), levantamento de requisitos e criação de uma API para geração de QR Code Pix.
 
-Sou movido por desafios e estou em busca da minha primeira oportunidade na área de TI para aplicar minhas habilidades técnicas, consolidar minha experiência prática, aprender com profissionais experientes e contribuir para soluções eficientes e de impacto.
+Antes de ingressar na área de tecnologia, adquiri experiência em funções administrativas e de suporte técnico, desenvolvendo habilidades como organização, comunicação, atenção aos detalhes e trabalho em equipe. Também atuei como Jovem Aprendiz na Lear Corporation, prestando suporte aos engenheiros na elaboração de documentação técnica e na digitalização de processos internos.
+
+Sou uma pessoa dedicada, com facilidade para aprender novas tecnologias e motivada por desafios. Busco uma oportunidade para aplicar meus conhecimentos, evoluir profissionalmente e contribuir para o desenvolvimento de soluções eficientes e de qualidade.
+
 
 <h2>Conecte-se comigo</h2> 
 
