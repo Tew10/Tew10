@@ -6,7 +6,7 @@
 </div>
 
 <h2>Sobre mim</h2> 
-Meu nome é Matheus, tenho 24 anos e sou Técnico em Desenvolvimento de Sistemas pelo SENAI. Busco minha primeira oportunidade como Desenvolvedor Júnior, com foco em desenvolvimento back-end utilizando Java e Spring Boot.
+Meu nome é Matheus, tenho 24 anos e sou Técnico em Informática para Internet pelo SENAI. Busco minha primeira oportunidade como Desenvolvedor Júnior, com foco em desenvolvimento back-end utilizando Java e Spring Boot.
 
 Durante minha formação, desenvolvi conhecimentos em Java, HTML, CSS, JavaScript, SQL Server, APIs REST, JSON, Git e GitHub. Como projeto de destaque, participei do desenvolvimento do **Doe+**, uma plataforma web para conectar ONGs e doadores, atuando no desenvolvimento da aplicação, integração com banco de dados, modelagem de dados (DER), levantamento de requisitos e criação de uma API para geração de QR Code Pix.
 
