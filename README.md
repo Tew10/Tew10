@@ -69,11 +69,18 @@ The project explores how technology can help make donations more accessible and 
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Tew10&theme=react-dark&hide_border=true&area=true"
-    alt="GitHub Activity Graph"
+    src="https://raw.githubusercontent.com/Tew10/Tew10/activity-assets/activity-30d.svg"
+    alt="GitHub Activity — Last 30 Days"
     width="100%"
   />
 </p>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Tew10/Tew10/activity-assets/activity-30d.svg">30 dias</a> ·
+  <a href="https://raw.githubusercontent.com/Tew10/Tew10/activity-assets/activity-90d.svg">90 dias</a> ·
+  <a href="https://raw.githubusercontent.com/Tew10/Tew10/activity-assets/activity-365d.svg">365 dias</a>
+</p>
+
 
 <p align="center">
   <img
