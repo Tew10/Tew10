@@ -83,12 +83,6 @@ The project explores how technology can help make donations more accessible and 
   />
 </p>
 
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tew10/Tew10/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
-</p>
-
 ---
 
 ## 📜 Certificates & Learning
