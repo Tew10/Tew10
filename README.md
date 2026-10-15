@@ -1,38 +1,115 @@
-<div style="display:flex; width: 100%; justify-content: flex-start">
-  <a href="https://git.io/typing-svg">
- <p></p>
-    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=ffffff&lines=Olá,%20+Bem+vindo+ao+meu+perfil;Hello,%20+Welcome+to+my+profile!" alt="Typing SVG" style="font-size: 150px" >
+# 👨‍💻 Matheus Antônio
+
+<!-- Replace this path with the banner image saved in your repository -->
+<p align="center">
+  <img src="./assets/banner.png" alt="Coffee and Coding Pixel Art Banner" width="100%" />
+</p>
+
+<p align="center">
+  <b>Java Developer | Spring Boot | SQL Server | REST APIs</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheus-antonio-1a6477241">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
+  <a href="https://github.com/Tew10">
+    <img src="https://img.shields.io/badge/GitHub-Tew10-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-<h2>Sobre mim</h2> 
-Meu nome é Matheus, tenho 24 anos e sou Técnico em Informática para Internet pelo SENAI. Busco minha primeira oportunidade como Desenvolvedor Júnior, com foco em desenvolvimento back-end utilizando Java e Spring Boot.
+---
 
-Durante minha formação, desenvolvi conhecimentos em Java, HTML, CSS, JavaScript, SQL Server, APIs REST, JSON, Git e GitHub. Como projeto de destaque, participei do desenvolvimento do **Doe+**, uma plataforma web para conectar ONGs e doadores, atuando no desenvolvimento da aplicação, integração com banco de dados, modelagem de dados (DER), levantamento de requisitos e criação de uma API para geração de QR Code Pix.
+## 👨‍🚀 About Me
 
-Antes de ingressar na área de tecnologia, adquiri experiência em funções administrativas e de suporte técnico, desenvolvendo habilidades como organização, comunicação, atenção aos detalhes e trabalho em equipe. Também atuei como Jovem Aprendiz na Lear Corporation, prestando suporte aos engenheiros na elaboração de documentação técnica e na digitalização de processos internos.
+Hi! I'm Matheus, a developer from Brazil passionate about technology, software development, and solving real-world problems through code.
 
-Sou uma pessoa dedicada, com facilidade para aprender novas tecnologias e motivada por desafios. Busco uma oportunidade para aplicar meus conhecimentos, evoluir profissionalmente e contribuir para o desenvolvimento de soluções eficientes e de qualidade.
+- 🎓 Technical degree in Internet Application Development from SENAI.
+- ☕ Focused on Java, Spring Boot, SQL Server, and REST APIs.
+- 🚀 Building projects that combine technology and real-world impact.
+- 🌱 Currently expanding my knowledge of Python, Data Science, and Artificial Intelligence.
+- 🎯 Long-term goal: become an AI Engineer and build meaningful technology products.
 
+> *"Great things are built one line of code at a time."*
 
-<h2>Conecte-se comigo</h2> 
+## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-antonio-1a6477241/) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tew.santos/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:matheus.antonio22123@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/matheus-antonio-1a6477241">
+    <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Antônio-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Tew10">
+    <img src="https://img.shields.io/badge/GitHub-Tew10-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-<h2>Habilidades</h2> 
+---
 
-![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=red) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/Tew10
-) ![Microsoft_Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL Server](https://img.shields.io/badge/sql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## 🛠️ My Tech Stack
 
-<h2>Cursando</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,html,css,git,github,mysql&theme=dark" alt="Technology Stack" />
+</p>
 
-![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) 
+**Also working with:** SQL Server, JSON, REST APIs, and API testing tools.
 
+---
 
+## 🚀 Featured Project
 
+### 💙 Doe+ — Connecting Donors and NGOs
 
+A social-impact project focused on connecting donors with non-governmental organizations (NGOs).
 
+The project explores how technology can help make donations more accessible and strengthen connections between people and organizations that need support.
 
+**Technologies:** Java · Spring Boot · SQL Server · REST APIs
 
+🔗 [Explore the Doe+ repository](https://github.com/Tew10/Conex-o-Entre-Doadores-e-ONGS)
+
+---
+
+## 📊 GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tew10&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tew10/Tew10/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+</p>
+
+---
+
+## 📜 Certificates & Learning
+
+A selection of courses and certifications related to my professional development.
+
+<!-- Add certificate cards here as you complete courses.
+     Include the course name, issuing institution, and certificate URL. -->
+
+<p>
+  <img src="https://img.shields.io/badge/Focus-Java%20Development-orange?style=flat-square" alt="Java Development" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-blue?style=flat-square" alt="Backend Development" />
+  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-purple?style=flat-square" alt="Artificial Intelligence" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- 🐍 Python and Data Analysis
+- 📈 Statistics and Machine Learning
+- 🤖 Artificial Intelligence and LLMs
+- ☁️ Cloud Computing and AWS
+- 🏗️ Software Architecture and Design Patterns
+
+---
+
+<p align="center">
+  <i>☕ Coffee, code, consistency, and a little bit of curiosity.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C3BFF&height=100&section=footer" alt="Purple Footer" width="100%" />
+</p>
