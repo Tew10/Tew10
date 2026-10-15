@@ -43,13 +43,15 @@ Hi! I'm Matheus, a developer from Brazil passionate about technology, software d
 
 ## 🛠️ My Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,js,html,css,git,github,mysql&theme=dark" alt="Technology Stack" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,html,css,git,github&theme=dark" alt="Technology Stack" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="Microsoft SQL Server" />
 </p>
 
 **Also working with:** SQL Server, JSON, REST APIs, and API testing tools.
 
 ---
+
 
 ## 🚀 Featured Project
 
@@ -62,6 +64,7 @@ The project explores how technology can help make donations more accessible and 
 **Technologies:** Java · Spring Boot · SQL Server · REST APIs
 
 🔗 [Explore the Doe+ repository](https://github.com/Tew10/Conex-o-Entre-Doadores-e-ONGS)
+
 
 ---
 
