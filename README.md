@@ -53,6 +53,7 @@ Hi! I'm Matheus, a developer from Brazil passionate about technology, software d
 ---
 
 
+
 ## 🚀 Featured Project
 
 ### 💙 Doe+ — Connecting Donors and NGOs
@@ -63,7 +64,8 @@ The project explores how technology can help make donations more accessible and 
 
 **Technologies:** Java · Spring Boot · SQL Server · REST APIs
 
-🔗 [Explore the Doe+ repository](https://github.com/Tew10/Conex-o-Entre-Doadores-e-ONGS)
+🔗 [Explore the Doe+ repository](https://github.com/Tew10/DoePlus)
+
 
 
 ---
