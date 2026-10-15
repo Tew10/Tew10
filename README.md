@@ -82,13 +82,25 @@ The project explores how technology can help make donations more accessible and 
 </p>
 
 
+
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Tew10/Tew10/output/github-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Tew10/Tew10/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Tew10/Tew10/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Tew10/Tew10/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    />
+  </picture>
 </p>
+
 
 ---
 
