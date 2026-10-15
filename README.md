@@ -1,4 +1,4 @@
-# 👨‍💻 Matheus Antônio
+# 👨‍💻 Matheus Antonio
 
 <!-- Replace this path with the banner image saved in your repository -->
 <p align="center">
